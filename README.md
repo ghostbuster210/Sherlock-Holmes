@@ -26,9 +26,6 @@ The Sherlock Holmes Mystery Game  immerses players in a narrative-driven mystery
 
 - **Customizable Experience**: Developers can modify the game_info module to create different scenarios, making it versatile for various themes and storylines.
 
-### Demo
-
-
 ## Installation Instructions
 
 To set up and run the Sherlock Holmes Mystery Game, follow these steps:
